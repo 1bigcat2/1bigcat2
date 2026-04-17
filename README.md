@@ -12,18 +12,22 @@
 
 ## 👋 About Me
 
-Hi, I'm bigcat22.
+Hi, I'm 1bigcat2.
 
-你好呀！我是 bigcat22，一名试图在代码里寻找生活“最优解”的 AI 方向研究生。
+你好呀！我是 1bigcat2，一名试图在代码里寻找生活“最优解”的研究生。
 
-与其说我是在做研究，不如说我更像是一个用 Python 编织智能世界的探险家。我希望在 LLM 的浪潮中，亲手打造出那些能思考、会行动、甚至带点“灵气”的 Agent。我的日常除了钻研模型架构，就是琢磨怎么用 Cursor 和 Trae 让开发变得像呼吸一样自然 —— 因为我相信，只有把繁杂交给 AI，生活才能留下更多创造的诗意。
+与其说我是在做研究，不如说我更像是一个用 Python 编织智能世界的探险家。我希望在 LLM 的浪潮中，亲手打造出那些能思考、会行动、甚至带点“灵气”的 Agent。我的日常除了钻研模型架构，就是琢磨怎么用 Cursor 和 Trae 让开发变得像呼吸一样自然 —— 只有把繁杂交给 AI，生活才能留下更多创造的诗意。
 
 
 ---
 
 ### 📈 GitHub 动态
-![1bigcat2's GitHub stats](https://github-readme-stats.vercel.app/api?username=1bigcat2&show_icons=true&theme=transparent&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1bigcat2&layout=compact&theme=transparent)
+## 📈 GitHub 动态
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1bigcat2&show_icons=true&theme=transparent&rank_icon=github" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1bigcat2&layout=compact&theme=transparent" height="195" />
+</p>
 
 ---
 <p align="center">
