@@ -6,6 +6,16 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LLM](https://img.shields.io/badge/-LLM-FF6F00?style=flat-square&logo=huggingface&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-05998B?style=flat-square&logo=google-cloud&logoColor=white) ![Agent](https://img.shields.io/badge/-Agent-74aa17?style=flat-square&logo=openai&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+---
+📖 关于我 (A Little More About Me)
+👋 About Me
+Hi, I'm bigcat22.
+
+你好呀！我是 bigcat22，一名试图在代码里寻找生活“最优解”的 AI 方向研究生。
+
+与其说我是在做研究，不如说我更像是一个用 Python 编织智能世界的探险家。我希望在 LLM 的浪潮中，亲手打造出那些能思考、会行动、甚至带点“灵气”的 Agent。我的日常除了钻研模型架构，就是琢磨怎么用 Cursor 和 Trae 让开发变得像呼吸一样自然 —— 因为我相信，只有把繁杂交给 AI，生活才能留下更多创造的诗意。
+---
+
 ### 📈 GitHub 动态
 ![1bigcat2's GitHub stats](https://github-readme-stats.vercel.app/api?username=1bigcat2&show_icons=true&theme=transparent&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1bigcat2&layout=compact&theme=transparent)
