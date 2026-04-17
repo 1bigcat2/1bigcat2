@@ -7,8 +7,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LLM](https://img.shields.io/badge/-LLM-FF6F00?style=flat-square&logo=huggingface&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-05998B?style=flat-square&logo=google-cloud&logoColor=white) ![Agent](https://img.shields.io/badge/-Agent-74aa17?style=flat-square&logo=openai&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
-📖 关于我 (A Little More About Me)
-👋 About Me
+
+### 📖 关于我 (A Little More About Me)
+
+## 👋 About Me
+
 Hi, I'm bigcat22.
 
 你好呀！我是 bigcat22，一名试图在代码里寻找生活“最优解”的 AI 方向研究生。
