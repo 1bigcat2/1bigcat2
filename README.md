@@ -21,13 +21,21 @@ Hi, I'm 1bigcat2.
 
 ---
 
-### 📈 GitHub 动态
 ## 📈 GitHub 动态
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1bigcat2&show_icons=true&theme=transparent&rank_icon=github" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1bigcat2&layout=compact&theme=transparent" height="195" />
-</p>
+## 📈 GitHub 动态
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="center">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=1bigcat2&show_icons=true&theme=transparent&rank_icon=github" height="195" />
+    </td>
+    <td width="10"></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1bigcat2&layout=compact&theme=transparent" height="195" />
+    </td>
+  </tr>
+</table>
 
 ---
 <p align="center">
